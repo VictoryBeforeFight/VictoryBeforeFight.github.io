@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "aqua" # "default" , "air", "aqua", "contrast", "dark
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "VBF"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "BLOG"
 name                     : "VBF"
 description              : "An amazing website."
 url                      : "https://victorybeforefight.github.io"
